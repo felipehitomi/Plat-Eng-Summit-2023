@@ -79,7 +79,7 @@ Ben Treynor Sloos, Vice Presidente de Engenharia do Google
 Incorporar aspectos de Engenharia em Operações
 Garantir a Confiabilidade de Software e Produtos
 
-![[2023-04-25_18-46.png]]
+![](PlatformEngeneering/PlatEngSum2023/Dia1/2023-04-25_18-46.png)
 
 O'REILLY Site Reliability Engineering
 O'REILLY The Site Reliability Workbook
@@ -127,7 +127,7 @@ Porcentagem de erros em um determinado range de tempo
 Duration
 Duração média, maxima, p99, p90, p50 dos requests dentro de um determinado range de tempo
 
-![[2023-04-25_18-47.png]]
+![](PlatformEngeneering/PlatEngSum2023/Dia1/2023-04-25_18-47.png)
 
 Nassim Nicholas Taleb
 THE BLACK SWAN
