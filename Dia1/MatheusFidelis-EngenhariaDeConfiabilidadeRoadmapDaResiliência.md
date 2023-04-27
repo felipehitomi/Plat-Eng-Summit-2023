@@ -8,7 +8,7 @@ linktr.ee/fidelissauro
 
 **Resiliência em QA / DevOps**
 
-Testes
+Testes</br>
 Linters
 Business Tests Contratos
 Feature Toggles
