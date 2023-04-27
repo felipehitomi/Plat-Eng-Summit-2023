@@ -87,9 +87,9 @@ O'REILLY Building Secure & Reliable Systems
 
 
 
-Métricas de Confiabilidade
+**Métricas de Confiabilidade**
 
-Acordos
+**Acordos**
 
 SLA
 Service Level Agreement
@@ -115,7 +115,7 @@ A margem de erro.
 
 
 
-Métricas RED
+**Métricas RED**
 Métricas voltadas para serviços e microsserviços
 Modelo baseado em uso de serviço
 
@@ -134,7 +134,7 @@ THE BLACK SWAN
 Antifragile
 
 
-Lidando seus Cisnes
+**Lidando seus Cisnes**
 Conversando e Conhecendo
 Mapeamento visual
 Game Days
@@ -144,7 +144,7 @@ Assumindo Riscos como Produto
 Post-Mortens
 
 
-BLAST RADIUS
+**BLAST RADIUS**
 Estimar e diminuir os impactos
 Termo Utilizado pelos times da AWS
 Zona de Impacto de um desastre
@@ -156,7 +156,7 @@ O que será degradado parcialmente?
 O que ainda funciona?
 
 
-Como Medir?
+**Como Medir?**
 	Matriz de Resiliência
 	Healthmaps
 	Game Days
@@ -166,7 +166,7 @@ Como Medir?
 		"Se eu desligar isso aqui, esse outro ainda funciona?" - Pergunta Cretina
 		"O que podemos fazer pra isso aí não cair junto? Ou quem sabe minimizar o impacto da queda?" - Pergunta Cretina
 
-Disaster Recovery
+**Disaster Recovery**
 Um desastre, é um desastre por definição 
 Quem define o que é um desastre?
 
@@ -181,7 +181,7 @@ Medir o Blast Radius
 Gerar Backlog
 
 
-Disaster Recovery & Game Days
+**Disaster Recovery & Game Days**
 Objetivos
 Backlog das Perguntas Cretinas
 Simular o impacto real delas
@@ -192,7 +192,7 @@ Testar ativamente os fluxos alternativos
 Desligar dependências, simular falhas e manter os SLO's
 
 
-Resiliência de Infraestrutura
+**Resiliência de Infraestrutura**
 Redundancia de Networking
 Multi-AZ & Multi Region 
 Backups, Snapshots, Restore 
@@ -203,7 +203,7 @@ Capacity Planning
 Plataforma
 SLA dos fornecedores
 
-Resiliência de Sistêmica
+**Resiliência de Sistêmica**
 Programação Defensiva
 Healthchecks
 Sync e Async
@@ -215,7 +215,7 @@ Desacoplamento e Isolamento
 Camadas de Dados
 
 
-Retry Policies
+**Retry Policies**
 Primeiro Passo
 Integrações Pragmáticas
 Retentativa de Comunicação Sync
@@ -226,7 +226,7 @@ Plataforma Inbound & Outbound
 Timeout nas Integrações
 
 
-Fallbacks
+**Fallbacks**
 Sempre pensar em fluxos alternativos 
 Duvida entre duas ou mais soluções?
 	Use várias
@@ -237,7 +237,7 @@ Mensageria, Reservas, Fluxo
 Represagem
 Processamento tardio
 
-Circuit Breakers
+**Circuit Breakers**
 Dar erro mais rápido?
 Uso inteligente dos Fallbacks
 Trabalhar com as falhas de forma prevista
@@ -248,7 +248,7 @@ Checagem inteligente
 Monitoramento
 
 
-Fault Injection
+**Fault Injection**
 Injetar erros primários internacionais 
 Testar ativamente os fallbacks
 Problemas de monitoramento 
